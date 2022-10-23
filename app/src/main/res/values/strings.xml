@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KidsEdu</string>
+    <string name="sound">Son</string>
+
+
+    <string name="bottom_home_item">Accueil</string>
+    <string name="bottom_favorite_item">Favoris</string>
+    <string name="bottom_profile_item">Profil</string>
+
+    <!--  Page d'accueil  -->
+    <string name="home_page_title">A découvrir</string>
+    <string name="home_page_last_lesson_section">Dernières leçons</string>
+
+    <!--  Page de favoris  -->
+    <string name="favorite_page_title">Mes favoris</string>
+
+    <!--  Leçon  -->
+    <string name="home_page_lesson_name">Titre de la leçon</string>
+    <string name="home_page_lesson_description">Description de la leçon</string>
+
+    <!--  Detail  -->
+    <string name="lesson_name">Titre de la leçon</string>
+    <string name="lesson_description">Description de la leçon</string>
+    <string name="lesson_description_subtitle">Sous-Description de la leçon</string>
+</resources>
